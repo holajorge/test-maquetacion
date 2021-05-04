@@ -1,0 +1,71 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+*{
+	box-sizing: border-box;
+}
+.text-header{
+	background: #33C4FF;
+	height: 25px;
+	margin-top: -10px;
+}
+.header  {
+	grid-area: header;
+	background-image: url('Banner/With bleed/Banner_bleed_text.jpg');
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.img-altavoz{
+	background-image: url('Assets/PNGs/Asset-01.png');
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	width: 30px;
+}
+.img-logo{
+	background-image: url('Assets/PNGs/Asset-02.png');
+	height: 41%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	width: 30%;	
+	background-color: #A7EEEB; 
+	float: left;
+}
+.header-down{
+	background-color: #C70039; 
+	margin-top:-0px; 
+	text-align: center;
+}
+
+.btn-register{
+	display: inline-block; 
+	background-color: #58892A; 
+	border-radius: 7px; 
+	padding: 5px;
+}
+
+.left-section{
+	background-color: #A5906C;
+	padding: 20px; 
+	float: left; 
+	width: 50%;
+}
+.right-section{
+	background-color: #A5906C; 
+	padding: 23.5px; 
+	float: left; 
+	width: 50%; 
+	text-align: center;
+}
+.btn-mission{
+	background: #58892A; 
+	border-radius: 7px;
+}
+
+/*media*/
