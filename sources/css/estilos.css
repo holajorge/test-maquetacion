@@ -5,9 +5,21 @@ body{
   padding: 0;
 }
 
-.header,  img {
-    max-width: 100%;
-    max-height: 100%;
+.img-header {
+    max-width: 100% ;
+    max-height: 100% ;
+}
+.img-banner{
+	max-width: 100% ;
+    max-height: 100% ;
+}
+.img-classroowm{
+	max-width: 100% ;
+    max-height: 100% ;
+}
+.img-work{
+	max-width: 60% ;
+    max-height: 80% ;
 }
 .header{
 	background-color: #00CCCC;
@@ -36,7 +48,7 @@ body{
 .curriculum {
 	background: #BF076E ;
 }
-.curriculum,  img {
+.curriculum-img {
     max-width: 60%;
     max-height: 60%;
 }
